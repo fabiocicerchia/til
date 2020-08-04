@@ -3,7 +3,7 @@
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til).
 
 <!-- drop -->
-16 TILs so far.
+18 TILs so far.
 
 ## AWS
  - [Get List of S3 Empty Objects](aws/s3-empty-objects.md)
@@ -19,6 +19,10 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## GO
 # Compile Go with C Support(go/compile-c-support.md)
+
+## MAC
+ - [Screenshot of Active Window](mac/screenshot-active-window.md)
+ - [Disable Auto Fullstop](mac/disable-auto-fullstop.md)
 
 ## PROGRAMMING
  - [BigO Order](programming/big-o-order.md)
