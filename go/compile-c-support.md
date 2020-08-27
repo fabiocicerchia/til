@@ -1,4 +1,4 @@
-# Compile Go with C Support
+# Compile Go with C Support
 
 Ref: https://github.com/mattn/go-sqlite3/issues/491
 
