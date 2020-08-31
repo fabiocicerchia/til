@@ -1,0 +1,5 @@
+# Running Query by Database
+
+```sql
+SELECT `DB`, COUNT(*) AS `RUNNING_QUERIES` FROM `INFORMATION_SCHEMA`.`PROCESSLIST` GROUP BY `DB`;
+```

@@ -3,7 +3,7 @@
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til).
 
 <!-- drop -->
-21 TILs so far.
+22 TILs so far.
 
 ## AWS
  - [Get List of S3 Empty Objects](aws/s3-empty-objects.md)
@@ -39,4 +39,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
  - [Convert Timestamp to Date](shell/timestamp_convert.md)
  - [Shell Parameter Expansion](shell/parameter-expansion.md)
  - [SSL Certifcate Expiration](shell/ssl-cert-expiration.md)
+
+## SQL
+ - [Running Query by Database](sql/running-queries-by-db.md)
 
