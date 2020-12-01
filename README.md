@@ -3,7 +3,7 @@
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til).
 
 <!-- drop -->
-23 TILs so far.
+24 TILs so far.
 
 ## AWS
  - [Get List of S3 Empty Objects](aws/s3-empty-objects.md)
@@ -17,6 +17,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## GIT
  - [Push to Origin Shortcut](git/push-origin-shortcut.md)
  - [Change Commit Date](git/change-commit-date.md)
+ - [Pick a file from another branch](git/pick-file-from-branch.md)
 
 ## GO
  - [Compile Go with C Support](go/compile-c-support.md)
