@@ -3,10 +3,11 @@
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til).
 
 <!-- drop -->
-24 TILs so far.
+25 TILs so far.
 
 ## AWS
  - [Get List of S3 Empty Objects](aws/s3-empty-objects.md)
+ - [CloudWatch - Check Surrounding Logs](aws/cloudwatch-check-surrounding-logs.md)
  - [Sync Two S3 Buckets](aws/s3-sync-buckets.md)
  - [Docker Login for ECR](aws/ecr-docker-login.md)
  - [Ignore Autoscaling Alarms in CloudWatch](aws/cloudwatch-autoscaling-alarms.md)
